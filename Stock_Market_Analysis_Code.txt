@@ -1,5 +1,3 @@
-# VBA_Challenge-
-HW2
 Sub Stock_Market_Analysis()
 
 Dim ws As Worksheet
